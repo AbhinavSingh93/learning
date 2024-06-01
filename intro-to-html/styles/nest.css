@@ -1,0 +1,58 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.div10e{
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    width: 200px;
+    display: inline-block;
+    margin:15px;
+    vertical-align: top;
+}
+.image9f{
+    height:200px;
+    width:200px;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+.p19f{
+    margin-bottom: 5px;
+    margin-left: 8px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.p29f{
+    color: rgb(100,100,100);
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.p39f{
+    background-color: rgb(24,119,242);
+    color: white;
+    font-size: 16px;
+    font-family: Arial;
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+.chotu{
+    width: 28px;
+    height:28px;
+    object-fit: cover;
+    border-radius: 14px;
+    vertical-align: middle;
+    margin-right: 4px;
+}
+.chotudiv {
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+  
